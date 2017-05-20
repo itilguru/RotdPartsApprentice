@@ -5,4 +5,4 @@ applications:
   domain: mybluemix.net
   name: RotdPartsApprentice
   host: RotdPartsApprentice
-  disk_quota: 2G
+  disk_quota: 4G

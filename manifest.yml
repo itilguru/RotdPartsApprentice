@@ -1,8 +1,8 @@
 applications:
 - path: .
-  memory: 2G
+  memory: 4096M
   instances: 1
   domain: mybluemix.net
   name: RotdPartsApprentice
   host: RotdPartsApprentice
-  disk_quota: 4G
+  disk_quota: 2048M
